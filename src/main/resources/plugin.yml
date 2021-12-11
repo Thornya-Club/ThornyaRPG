@@ -1,7 +1,7 @@
-name: ThornyaTemplate
-author: Thornya.Club
+name: ThornyaMain
+author: Gusttavo13
 description: A Template
-main: club.thornya.thornyatemplate.ThornyaTemplate
-website: https://github.com/Thornya-Club/ThornyaTemplate
+main: club.thornya.thornyarpg.ThornyaMain
+website: https://github.com/Thornya-Club/ThornyaMain
 version: ${project.version}
-api-version: 1.16
+api-version: 1.17
